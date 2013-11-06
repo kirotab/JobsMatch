@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personalskillset>
+  <skill>
+    <skillname>C#</skillname>
+    <skillcolorname>DarkViolet</skillcolorname>
+  </skill>
+  <skill>
+    <skillname>XAML</skillname>
+    <skillcolorname>Crimson</skillcolorname>
+  </skill>
+  <skill>
+    <skillname>WPF</skillname>
+    <skillcolorname>DarkRed</skillcolorname>
+  </skill>
+  <skill>
+    <skillname>Databases</skillname>
+    <skillcolorname>DarkOrange</skillcolorname>
+  </skill>
+  <skill>
+    <skillname>.Net</skillname>
+    <skillcolorname>DeepSkyBlue</skillcolorname>
+  </skill>
+</personalskillset>

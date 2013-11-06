@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishdatesearchoptions>
+  <publishdate>
+    <publishdatename>All</publishdatename>
+    <publishdatevalue>0</publishdatevalue>
+  </publishdate>
+  <publishdate>
+    <publishdatename>Today</publishdatename>
+    <publishdatevalue>2</publishdatevalue>
+  </publishdate>
+  <publishdate>
+    <publishdatename>Yesterday</publishdatename>
+    <publishdatevalue>3</publishdatevalue>
+  </publishdate>
+  <publishdate>
+    <publishdatename>Last 3 days</publishdatename>
+    <publishdatevalue>4</publishdatevalue>
+  </publishdate>
+  <publishdate>
+    <publishdatename>Last 7 days</publishdatename>
+    <publishdatevalue>5</publishdatevalue>
+  </publishdate>
+  <publishdate>
+    <publishdatename>Last 14 days</publishdatename>
+    <publishdatevalue>6</publishdatevalue>
+  </publishdate>
+</publishdatesearchoptions>

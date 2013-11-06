@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<joboffers>
+  <job>
+    <jobid>TestJobID</jobid>
+    <jobtitle>Test Job Title</jobtitle>
+    <jobdescription>This is a test favorites job.</jobdescription>
+    <jobdate>Test job date</jobdate>
+    <jobcity>Test job city</jobcity>
+    <company>
+      <companyid>TestJobCompanyID</companyid>
+      <companyname>Test Job Company</companyname>
+      <companylogourl>anonymousLogo</companylogourl>
+    </company>
+  </job>
+</joboffers>

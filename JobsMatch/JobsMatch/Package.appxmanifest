@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="JobsMatch" Version="1.0.0.0" Publisher="CN=kiro" />
+  <Properties>
+    <DisplayName>JobsMatch</DisplayName>
+    <PublisherDisplayName>enjoyy</PublisherDisplayName>
+    <Logo>Assets\JobsMatch50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="JobsMatch.App">
+      <VisualElements DisplayName="JobsMatch" Logo="Assets\JobsMatch150x150.png" SmallLogo="Assets\JobsMatch30x30.png" Description="Jobs Match helps you find the right job for you, add your personal skills and open only the appropriate jobs for your skillset." ForegroundText="light" BackgroundColor="#00137F" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" ShortName="Jobs Match" WideLogo="Assets\JobsMatch310x150.png" />
+        <SplashScreen Image="Assets\JobsMatch620x300.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
